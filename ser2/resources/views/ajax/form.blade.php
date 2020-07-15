@@ -108,7 +108,10 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <div class="avatar">
-                                <img src="/examples/images/avatar.png" alt="Avatar">
+                                <img  src="https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=633&q=80" style='
+                                width: 89px;
+                                height: 89px;
+                                border-radius: 50%;' alt="Avatar">
                             </div>
                             <h4 class="modal-title">Member Login</h4>
                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
